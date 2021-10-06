@@ -6,7 +6,7 @@
 This script will PERFORM: 
 
 - GET POST PATCH DELETE requets.
-- POST requests with duplicate email adress will not be accepted.
+- POST requests with duplicate email address will not be accepted.
 - Endpoints will not allow any invalid email address formats.
 
 **To run: 
