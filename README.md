@@ -1,6 +1,16 @@
 # API-automation
 
-You are required to have python 3x version.
+**You are required to have python 3x version.
+**
+
+This script will PERFORM: 
+
+- GET POST PATCH DELETE requets.
+- POST requests with duplicate email adress will not be accepted.
+- Endpoints will not allow any invalid email address formats.
+
+**To run: 
+**
 
 Clone the repo. --> open your terminal --> CD to your favourite path --> 
 copy paste: **git clone https://github.com/csourav08/API-automation.git**
