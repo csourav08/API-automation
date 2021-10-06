@@ -3,7 +3,8 @@
 **You are required to have python 3x version.
 **
 
-This script will PERFORM: 
+**This script will perform: 
+**
 
 - GET POST PATCH DELETE requets.
 - POST requests with duplicate email address will not be accepted.
