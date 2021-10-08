@@ -14,7 +14,9 @@
 **
 
 Clone the repo. --> open your terminal --> CD to your favourite path --> 
-copy paste: **git clone https://github.com/csourav08/API-automation.git**
+copy paste: 
+
+**git clone https://github.com/csourav08/API-automation.git**
 
 Open the file API-Automation folder with your code-editor.
 
