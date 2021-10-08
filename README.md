@@ -20,4 +20,4 @@ copy paste:
 
 Open the file API-Automation folder with your code-editor.
 
-run the file '**finalAuto.py**' --> **python3 finalAUTO.py**
+run the file '**finalAuto.py**' --> **python3 finalAuto.py**
